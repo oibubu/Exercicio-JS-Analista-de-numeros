@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: rgb(5, 43, 68);
+    margin: 0;
+}
+
+header {
+    font: normal 10pt arial;
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.637);
+    font: normal 14pt arial;
+}
+
+footer {
+    font: normal 16pt italic;
+    color: white;
+    text-align: center;
+}
+select {
+    overflow:hidden;
+    width: 200px;
+}
